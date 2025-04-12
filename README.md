@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/rupam2232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srexrg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rupam-mondal-61ba15282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreeragp276" height="30" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/srexrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srexrg" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -65,3 +64,10 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupam2232&show_icons=true&locale=en&layout=compact" alt="srexrg" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupam2232/rupam2232/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupam2232/rupam2232/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rupam2232/rupam2232/output/github-snake.svg" />
+</picture>
