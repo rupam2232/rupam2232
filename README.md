@@ -1,4 +1,4 @@
-## Hello World!, I'm Rupam, a Full Stack Web developer 👋
+<h1 align="center">Hello World!, I'm Rupam, a Full Stack Web developer 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupam2232&label=Profile%20views&color=0e75b6&style=flat" alt="rupam2232" /> </p>
 
@@ -8,8 +8,8 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://x.com/rupam2232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupam2232" height="20" /></a>
-<a href="https://www.linkedin.com/in/rupam2232" target="blank" style="margin-left:20px" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupam2232" height="20" /></a>
+<a href="https://x.com/rupam2232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupam2232" height="20" width="40" /></a>
+<a href="https://www.linkedin.com/in/rupam2232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupam2232" height="20" width="40" /></a>
 </p>
 
 ## 💻 Tech Stack:
