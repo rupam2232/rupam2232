@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupam2232&label=Profile%20views&color=0e75b6&style=flat" alt="rupam2232" /> </p>
 
-- 🛜 currently working on <a target="_blank" href="https://github.com/rupam2232/pos-backend">Restaurant POS System</a>
+- 🛜 currently working on <a target="_blank" href="https://github.com/rupam2232/pos">Restaurant POS System</a>
 - 👨🏼‍🎓 Studying Bachelor of Computer Applications at Amity University Online
 
 
